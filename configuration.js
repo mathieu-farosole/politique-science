@@ -4,18 +4,18 @@ const config = {
     EN: {
       short: `Mathieu Faro Sole is conducting a PhD in political science named "prefets and water management", 
       affiliated to the BlueState projetc. He is conducting his thesis at the
-        <a href="https://cordis.europa.eu/project/id/951393" target="_blank">Nanobubbles ERC grant</a>. He is affiliated
-        to the <a href="http://umr-lisis.fr/membre/guillaume-levrier/" target="_blank">Laboratoire Interdisciplinaire
-          Sciences Innovations Sociétés (LISIS)</a>.
+      <a href="http://umr-lisis.fr/" target="_blank">Laboratoire Interdisciplinaire
+          Sciences Innovations Sociétés (LISIS)</a>.`
     },
     FR: {
       short: `Mathieu Faro Sole est un doctorant en sciences politiques
         conduisant une thèse intitulée "les préfets et la gestion de l'eau", intégrée au projet BlueState. Il est affilié au <a
-            href="http://umr-lisis.fr/membre/mathieu-farosole/"
+            href="http://umr-lisis.fr/"
             target="_blank">Laboratoire Interdisciplinaire
           Sciences
-          Innovations Sociétés (LISIS)</a>.
+          Innovations Sociétés (LISIS)</a>.`
   },
+    },
   links: [
     {
       label: "LISIS",
