@@ -17,7 +17,11 @@ const config = {
           Innovations Sociétés (LISIS)</a>.
   },
   links: [
-   
+    {
+      label: "LISIS",
+      value: "webpage",
+      url: "https://umr-lisis.fr",
+    },
   ],
-  email: { name: "mathieu.farosole", domain: "politique.science" },
+  email: { name: "mathieu.farosole", domain: "icloud.com" },
 };
