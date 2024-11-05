@@ -3,7 +3,7 @@ const config = {
   description: {
     EN: {
       short: `Mathieu Faro Sole is conducting a PhD in political science named "prefets and water management", 
-      affiliated to the BlueState projetc. He is conducting his thesis at the
+      affiliated to the BlueState project. He is conducting his thesis at the
       <a href="http://umr-lisis.fr/" target="_blank">Laboratoire Interdisciplinaire
           Sciences Innovations Sociétés (LISIS)</a>.`
     },
